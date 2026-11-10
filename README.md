@@ -11,14 +11,16 @@ My notes and code while working through Andrej Karpathy's [Neural Networks: Zero
 | 1. micrograd | A scalar-valued autograd engine and backpropagation from scratch, plus a tiny MLP | [`micrograd/micrograd_from_scratch_yay.ipynb`](micrograd/micrograd_from_scratch_yay.ipynb) |
 | 1. micrograd exercises | Post-lecture exercises | [`Copy of micrograd_exercises.ipynb`](Copy%20of%20micrograd_exercises.ipynb) |
 | 2. makemore | Character-level language model: bigram counting → neural network | [`makemore.ipynb`](makemore.ipynb) |
+| 2. makemore exercises | Bigram post-lecture exercises | [`makemore_bigram_excercise.ipynb`](makemore_bigram_excercise.ipynb) |
+| 3. makemore Part 2 | MLP language model: embeddings, train/dev/test splits, sampling | [`makemore_Part_2_MLP.ipynb`](makemore_Part_2_MLP.ipynb) |
 
 Dataset: [`Data/names.txt`](Data/names.txt) (~32k English names, used by makemore)
 
 ## Progress
 
 - [x] micrograd — backpropagation and autograd
-- [ ] makemore Part 1 — bigram language model
-- [ ] makemore Part 2 — MLP
+- [x] makemore Part 1 — bigram language model
+- [x] makemore Part 2 — MLP
 - [ ] makemore Part 3 — activations, gradients & BatchNorm
 - [ ] makemore Part 4 — becoming a backprop ninja
 - [ ] makemore Part 5 — WaveNet

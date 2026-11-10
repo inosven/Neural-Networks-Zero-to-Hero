@@ -11,14 +11,16 @@
 | 1. micrograd | 从零实现标量自动求导引擎和反向传播，搭一个小型 MLP | [`micrograd/micrograd_from_scratch_yay.ipynb`](micrograd/micrograd_from_scratch_yay.ipynb) |
 | 1. micrograd 练习 | 课后练习 | [`Copy of micrograd_exercises.ipynb`](Copy%20of%20micrograd_exercises.ipynb) |
 | 2. makemore | 字符级语言模型：bigram 计数 → 神经网络 | [`makemore.ipynb`](makemore.ipynb) |
+| 2. makemore 练习 | bigram 课后练习 | [`makemore_bigram_excercise.ipynb`](makemore_bigram_excercise.ipynb) |
+| 3. makemore Part 2 | MLP 语言模型：嵌入、train/dev/test 划分、采样 | [`makemore_Part_2_MLP.ipynb`](makemore_Part_2_MLP.ipynb) |
 
 数据集：[`Data/names.txt`](Data/names.txt)（约 32k 个英文名字，makemore 使用）
 
 ## 课程进度
 
 - [x] micrograd — 反向传播与自动求导
-- [ ] makemore Part 1 — bigram 语言模型
-- [ ] makemore Part 2 — MLP
+- [x] makemore Part 1 — bigram 语言模型
+- [x] makemore Part 2 — MLP
 - [ ] makemore Part 3 — 激活值、梯度与 BatchNorm
 - [ ] makemore Part 4 — 手写反向传播
 - [ ] makemore Part 5 — WaveNet
