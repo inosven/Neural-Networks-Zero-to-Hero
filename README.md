@@ -13,6 +13,7 @@ My notes and code while working through Andrej Karpathy's [Neural Networks: Zero
 | 2. makemore | Character-level language model: bigram counting → neural network | [`makemore.ipynb`](makemore.ipynb) |
 | 2. makemore exercises | Bigram post-lecture exercises | [`makemore_bigram_excercise.ipynb`](makemore_bigram_excercise.ipynb) |
 | 3. makemore Part 2 | MLP language model: embeddings, train/dev/test splits, sampling | [`makemore_Part_2_MLP.ipynb`](makemore_Part_2_MLP.ipynb) |
+| 4. makemore Part 3 | Activations, gradients & BatchNorm (in progress) | [`Building_makemore_Part_3_Activations_&_Gradients,_BatchNorm.ipynb`](Building_makemore_Part_3_Activations_%26_Gradients%2C_BatchNorm.ipynb) |
 
 Dataset: [`Data/names.txt`](Data/names.txt) (~32k English names, used by makemore)
 
@@ -21,7 +22,7 @@ Dataset: [`Data/names.txt`](Data/names.txt) (~32k English names, used by makemor
 - [x] micrograd — backpropagation and autograd
 - [x] makemore Part 1 — bigram language model
 - [x] makemore Part 2 — MLP
-- [ ] makemore Part 3 — activations, gradients & BatchNorm
+- [ ] makemore Part 3 — activations, gradients & BatchNorm (in progress)
 - [ ] makemore Part 4 — becoming a backprop ninja
 - [ ] makemore Part 5 — WaveNet
 - [ ] GPT — building GPT from scratch

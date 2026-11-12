@@ -13,6 +13,7 @@
 | 2. makemore | 字符级语言模型：bigram 计数 → 神经网络 | [`makemore.ipynb`](makemore.ipynb) |
 | 2. makemore 练习 | bigram 课后练习 | [`makemore_bigram_excercise.ipynb`](makemore_bigram_excercise.ipynb) |
 | 3. makemore Part 2 | MLP 语言模型：嵌入、train/dev/test 划分、采样 | [`makemore_Part_2_MLP.ipynb`](makemore_Part_2_MLP.ipynb) |
+| 4. makemore Part 3 | 激活值、梯度与 BatchNorm（进行中） | [`Building_makemore_Part_3_Activations_&_Gradients,_BatchNorm.ipynb`](Building_makemore_Part_3_Activations_%26_Gradients%2C_BatchNorm.ipynb) |
 
 数据集：[`Data/names.txt`](Data/names.txt)（约 32k 个英文名字，makemore 使用）
 
@@ -21,7 +22,7 @@
 - [x] micrograd — 反向传播与自动求导
 - [x] makemore Part 1 — bigram 语言模型
 - [x] makemore Part 2 — MLP
-- [ ] makemore Part 3 — 激活值、梯度与 BatchNorm
+- [ ] makemore Part 3 — 激活值、梯度与 BatchNorm（进行中）
 - [ ] makemore Part 4 — 手写反向传播
 - [ ] makemore Part 5 — WaveNet
 - [ ] GPT — 从零构建 GPT
